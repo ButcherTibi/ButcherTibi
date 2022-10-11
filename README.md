@@ -17,6 +17,7 @@
 	<tr>
 		<td>Frontend</td>
 		<td>Backend</td>
+		<td>Tools</td>
 	</tr>
 	<tr>
 		<td>
@@ -27,22 +28,22 @@
 					<label>React</label>
 				</li>
 				<li>
-					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg'
+					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'
 						style='height: 25px' />
 					<label>TypeScript</label>
 				</li>
 				<li>
-					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'
+					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'
 						style='height: 25px' />
 					<label>JavaScript</label>
 				</li>
 				<li>
-					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg'
+					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'
 						style='height: 25px' />
 					<label>HTML 5</label>
 				</li>
 				<li>
-					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg'
+					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'
 						style='height: 25px' />
 					<label>CSS 3</label>
 				</li>
@@ -50,17 +51,37 @@
 		</td>
 		<td>
 			<ul>
-				<li><label>C#</label></li>
-				<li><label>C# Web API</label></li>
-				<li><label>Entity Framework</label></li>
+				<li>
+					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg'
+						style='height: 25px' />
+					<label>C#</label>
+				</li>
+				<li>
+					<label>REST APIs</label>
+				</li>
+				<li>
+					<label>Entity Framework Core</label>
+				</li>
+			</ul>
+		</td>
+		<td>
+			<ul>
+				<li>
+					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'
+						style='height: 25px' />
+					<label>Visual Studio Code</label>
+				</li>
+				<li>
+					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg'
+						style='height: 25px' />
+					<label>Visual Studio Community</label>
+				</li>		
+				<li>
+					<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg'
+						style='height: 25px' />
+					<label>Figma</label>
+				</li>
 			</ul>
 		</td>
 	</tr>
 </table>
-
-<h2>Tools</h2>
-<ul>
-	<li><label>Visual Studio Community</label></li>
-	<li><label>Visual Studio Code</label></li>
-	<li><label>Figma</label></li>
-</ul>
